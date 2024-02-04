@@ -243,7 +243,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## Contact
 
-Elsayed Atif Aner - [facebook](https://www.facebook.com/alsayed.atif) - alsayedatif88@gmail.com
+Elsayed Atif Aner - [facebook](https://www.facebook.com/alsayed.atif)
 
 Project Link: [Warehouse-Secure-System](https://github.com/Elsayed-Atif/Warehouse-Secure-System)
 
