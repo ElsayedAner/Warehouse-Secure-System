@@ -245,7 +245,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Elsayed Atif Aner - [facebook](https://www.facebook.com/alsayed.atif) - alsayedatif88@gmail.com
 
-Project Link: [https://github.com/Elsayed-Aner/Secure-Warehouse-System](https://github.com/Elsayed-Aner/Secure-Warehouse-System)
+Project Link: [Warehouse-Secure-System](https://github.com/Elsayed-Atif/Warehouse-Secure-System)
 
 <!-- Acknowledgments -->
 ## Acknowledgements
